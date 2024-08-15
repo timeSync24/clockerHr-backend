@@ -1,0 +1,11 @@
+firstName,lastName,middleName,email,password,role
+John,Doe,A,john.doe@example.com,Password123,Admin
+Jane,Smith,B,jane.smith@example.com,Password123,Admin
+Alice,Johnson,C,alice.johnson@example.com,Password123,Admin
+Bob,Williams,D,bob.williams@example.com,Password123,Admin
+Carol,Brown,E,carol.brown@example.com,Password123,Admin
+David,Wilson,F,david.wilson@example.com,Password123,Admin
+Eve,Miller,G,eve.miller@example.com,Password123,Admin
+Frank,Moore,H,frank.moore@example.com,Password123,Admin
+Grace,Taylor,I,grace.taylor@example.com,Password123,Admin
+Hank,Anderson,J,hank.anderson@example.com,Password123,Admin

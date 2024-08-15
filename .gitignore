@@ -1,0 +1,22 @@
+# Dependency directories
+node_modules/
+
+# Env files
+.env
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Build directories
+dist/
+build/
+
+# Optional: If you decide to exclude package-lock.json
+# Uncomment the following line
+# package-lock.json
